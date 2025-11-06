@@ -99,8 +99,7 @@ aura-qg/
 ├── modules.py             # Metric and utility functions
 ├── sample_input.json      # Demo input with markdown-formatted document + two question sets
 ├── requirements.txt       # All required Python packages
-├── spider_plot.png        # The spider plot output for current input file
-└── readme.md              # This file
+└── spider_plot.png        # The spider plot output for current input file
 ```
 
 ## Example Output
